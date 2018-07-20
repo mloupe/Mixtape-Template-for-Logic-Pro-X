@@ -19,4 +19,4 @@ Set the compressor threshold so the gain reduction averages around -2db.
 
 # Other:
 You may want to EQ a wide band cut at 500hz on the beat’s track to leave some space for the vocals.
-I really like to mix with a spectrum analyzer. I’ll look at the analyzer of the master track and set the vocals so that frequencies of the vocals fit nicely with the rest of the mix. It’s worth learning how to do that. 
+I really like to mix with a spectrum analyzer. I’ll look at the analyzer of the master track and set the vocals so that frequencies of the vocals fit nicely with the rest of the mix. 
