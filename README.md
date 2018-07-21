@@ -1,4 +1,8 @@
 # Mixtape-Template-for-Logic-Pro-X
+# About
+This is a super rudimentary template, but I made it for a friend to help him get his rap vocals to sit nicely with the instrumental track (aka beat). He was super appreciative, so I decided to post it online to see if anyone else may find such a thing useful.
+
+Note also that, in this context, "Mixtape" means rapping over a pre-produced beat... similar to Lil Wayne's Dedications. See definition #6 for mixtape on urban dictionary.
 
 # Installation
 Download this template and save it to ~/Music/Audio Music Applications/Project Templates
